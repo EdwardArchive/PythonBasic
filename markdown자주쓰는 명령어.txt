@@ -1,0 +1,2 @@
+<hr style="background-color: rgb(0,0,0);height: 2px;"/>
+  - 줄긋는 명령어

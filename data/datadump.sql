@@ -1,0 +1,8 @@
+BEGIN TRANSACTION;
+CREATE TABLE PhoneBook(Name text, PhoneNum text);
+INSERT INTO "PhoneBook" VALUES('Derick','010-1234-5678');
+INSERT INTO "PhoneBook" VALUES('tom','010-222-2222');
+INSERT INTO "PhoneBook" VALUES('john','010-222-3333');
+INSERT INTO "PhoneBook" VALUES('jane','010-244-3444');
+INSERT INTO "PhoneBook" VALUES('jarry','010-555-5555');
+COMMIT;
